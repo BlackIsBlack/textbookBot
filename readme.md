@@ -1,0 +1,1 @@
+This discord bot allows a user to enter the name of a textbook, and a download link will be returned to the closest matching textbook.
